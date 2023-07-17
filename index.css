@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@200;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@200;400;700&display=swap");
 
 body {
   margin: 0;
@@ -31,13 +31,16 @@ body {
 
 .qr-container__title {
   font-family: "Outfit", sans-serif;
-  font-weight: 800;
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
   margin-top: 0;
 }
 
 .qr-container__label {
   font-family: "Outfit", sans-serif;
-  font-weight: 200;
+  font-weight: 400;
+  font-size: 15px;
+  color: hsl(212, 45%, 89%);
   margin-bottom: 0;
 }
 
